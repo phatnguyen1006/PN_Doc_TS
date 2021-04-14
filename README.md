@@ -1,6 +1,8 @@
 # TypeScript
 # PN_Doc_TS
 
+![alt text](https://raw.githubusercontent.com/TypeStrong/ts-node/HEAD/logo.svg?sanitize=false)
+
 [![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
 [![Devops Build Status](https://dev.azure.com/typescript/TypeScript/_apis/build/status/Typescript/node10)](https://dev.azure.com/typescript/TypeScript/_build?definitionId=7)
 [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
